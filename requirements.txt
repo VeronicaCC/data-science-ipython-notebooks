@@ -1,4 +1,4 @@
-backports.ssl-match-hostname==3.4.0.2
+backports.ssl-match-hostname==
 certifi==2015.4.2
 functools32==3.2.3.post1
 gnureadline==6.3.3
